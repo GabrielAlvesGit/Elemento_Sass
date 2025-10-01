@@ -11,5 +11,10 @@ O projeto teve como foco a exploraação prática das ferramentas e funcionalida
 
 ## Layout
 
+<img width="1363" height="546" alt="image" src="https://github.com/user-attachments/assets/b8d911ca-f946-4690-8d40-7dddf42f47f5" />
+
+
 <img width="1366" height="1166" alt="image" src="https://github.com/user-attachments/assets/722e7b3a-aba6-49ed-961f-66a71ea282c7" />
+
+
 
